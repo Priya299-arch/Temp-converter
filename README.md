@@ -6,7 +6,7 @@ Features
 Temperature Conversion: Convert temperatures between Celsius, Fahrenheit, and Kelvin with a simple interface.
 User-Friendly Interface: Intuitive layout for easy use, with clear input and output fields.
 Real-Time Conversion: Immediate conversion upon input change for a smooth user experience.
-Responsive Design: Adapts to different screen sizes, making it usable on both desktop and mobile devices.
+Responsive Design: Adapts to different screen sizes, making it  usable on both desktop and mobile devices.
 Technologies Used
 HTML5: Structure of the application.
 CSS3: Styling for a clean, modern layout.
